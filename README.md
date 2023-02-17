@@ -1,1 +1,1 @@
-# Yapay-Zekaya-Ilk-Ad-m
+# Yapay-Zekaya-Ilk-Adim
