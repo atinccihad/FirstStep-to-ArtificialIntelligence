@@ -3,8 +3,7 @@
 AI110 Yapay zekânın anlamı ve önemi
 February 24, 2021
 Yapay Zeka ne anlama geliyor? Neden bu kadar önemli? Bu ders, temel yapay zeka terminolojisini, tanımlarını ve yapay zekanın bizim ve dünya için stratejik alaka düzeyine genel bir bakış içerir.
-Her biri, dersi daha iyi takip etmenize yardımcı olacak kapsamlı alıştırma soruları ve hızlı özetlerden oluşan üç konu içerir. Konu özetlerini “Materials” kısmında bulabilirsiniz.
-
+Her biri, dersi daha iyi takip etmenize yardımcı olacak kapsamlı alıştırma soruları ve hızlı özetlerden oluşan üç konu içerir. 
 1. Karşılama ve Giriş
 2. Tanım Ve Kapsam: Yapay Zeka Insan Zekasına Karşı
 3. Yapay Zeka Türleri ve Terminoloji
